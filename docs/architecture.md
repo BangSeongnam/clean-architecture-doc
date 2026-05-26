@@ -24,7 +24,7 @@
 
 ## Clean Architecture 선택 이유
 
-![TradeOff](../images/clean_architecture_onion.png)
+![TradeOff](../images/clean_architecture_onion.svg)
 
 본 프로젝트에서 Clean Architecture를 선택한 핵심 이유는 다음과 같다.
 
@@ -37,7 +37,7 @@
 
 ## 구조 도입을 통해 기대하는 효과
 
-![TradeOff](../images/change_impact_before_after.png)
+![TradeOff](../images/change_impact_before_after.svg)
 
 이 구조가 실질적으로 제공하는 장점은 다음과 같다.
 
